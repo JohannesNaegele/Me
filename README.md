@@ -27,6 +27,8 @@ Konkret bindet man dann bei Möglichkeit 1. den Slider (oder was auch immer) ext
 
 ##### 2. Hybrid-Lösung
 
+Dieser Ansatz ermöglicht vor allem, dass das Dokument mit mehr Systemen kompatibel ist. Die Idee ist, dass man sich einfach das beste aus den zwei Welten Website und PDF zusammenbastelt: Eigentlich bietet eine Website ja genau die Interaktivität, die man will, nur leider sieht sie dafür auf verschiedenen Geräten unterschiedlich aus; feine Typografie ist quasi unmöglich. Natürlich könnte man anstelle einer Website auch eine GUI-Applikation mit dem PDF verbinden, das ist allerdings weniger universell und bietet kaum Mehrwert (bis auf Offlinefunktionalität, dazu komme ich noch).
+
 ##### 3. TeX-Lösung
 
 #### Videos & Grafiken
