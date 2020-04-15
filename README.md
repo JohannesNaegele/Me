@@ -25,9 +25,9 @@ Was zur Hölle meine ich mit *Pseudointeraktivität*? Der Punkt ist: Wenn ich ni
 
 Konkret bindet man dann bei Möglichkeit 1. den Slider (oder was auch immer) extern über das [media9](https://ctan.org/pkg/media9)-Package als .swf (Shockwave) ein. Diesen wiederum erstellt man in Adobe Flex mit einer mxml-Datei (Abfuck). Und die Animation macht man dann in LaTeX mit dem [animate](https://ctan.org/pkg/animate)-Package. Das heißt: Ich sage dem animate-Package: Generiere mir bitte 200 Frames, wobei du mir diesen counter hier erhöhst. Ich gehe dann her und bastele eine Bijektion von dem counter in meine verschiedenen Parameter, sodass also im vorigen Beispiel 10000 Frames allen Kombinationen von den 10 μ und 1000 σ² zugeordnet werden. Die Grafik selbst kann dann von einem beliebigen Package generiert werden, ich verwende immer [TikZ](https://www.ctan.org/pkg/pgf).
 
-##### Hybrid-Lösung
+##### 2. Hybrid-Lösung
 
-##### TeX-Lösung
+##### 3. TeX-Lösung
 
 #### Videos & Grafiken
 
